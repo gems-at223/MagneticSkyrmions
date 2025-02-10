@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcsim
+Version: 1.0.0
+Summary: A package to simulate spin states using Metropolis Monte Carlo
+Author: gems-at223
+License-File: LICENSE.txt
+Requires-Dist: numpy>=1.25.2
+Requires-Dist: matplotlib>=3.7.2
+Requires-Dist: pytest>=7.4.2
